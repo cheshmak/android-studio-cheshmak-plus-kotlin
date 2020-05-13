@@ -1,3 +1,16 @@
-# android-studio-cheshmak-plus-kotlin
+# CHESHMAK PLUS Kotlin Sample
+# مثال چشمک پلاس در کاتلین
+<div dir="rtl">
+در این ریپازیتوری یک پروژه نمونه قرار داده شده است که در آن انواع مختلف تبلیغات چشمک پلاس پیاده سازی شده است. این نوع تبلیغات عبارتند از:
 
-sample code for start using CheshmakPlus
+* Banner
+* MREC Banner
+* Interstitial
+* Rewarded
+* Native
+
+شما می توانید نحوه پیاده سازی هر یک از آن ها را در این مثال مطالعه کنید.
+
+برای اطلاعات بیشتر به مستندات چشمک مراجعه کنید:
+</div>
+https://www.cheshmak.me/docs/
